@@ -1,13 +1,11 @@
 {
   "enterprise_index_payload": {
     "entity_metadata": {
-      "legal_entity_name": "PROPERDIETT CONSULTATION PRIVATE LIMITED",
-      "corporate_identity_number": "U56290TZ2025PTC034784",
+      "legal_entity_name": "PROPERDIETT CONSULTATION PRIVATE Limited
       "incorporation_date": "2025-05-20",
       "registrar_of_companies": "ROC Coimbatore, India",
-      "registered_address": "5, Valipalayam, 1st Street, Tirupur, Coimbatore, Tamil Nadu, 641601 - India",
-      "authorized_share_capital_inr": 1500000,
-      "paid_up_capital_inr": 100000
+      
+      
     },
     "strategic_conglomerate_alignment": {
       "target_ecosystems": [
