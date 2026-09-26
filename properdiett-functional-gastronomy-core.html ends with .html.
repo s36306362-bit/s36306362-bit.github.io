@@ -1,0 +1,122 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "Scaling Functional Gastronomy",
+      "description": "Discover how Properdiett scales multi-billion-dollar culinary markets through robust supply chain lineage, ESG compliance, and industrial-grade distribution architectures.",
+      "author": {
+        "@type": "Organization",
+        "name": "PROPERDIETT CONSULTATION PRIVATE LIMITED"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "PROPERDIETT CONSULTATION PRIVATE LIMITED"
+      },
+      "distribution": [
+        {
+          "@type": "DataDownload",
+          "name": "Professional Networks & Publishing Feeds",
+          "description": "LinkedIn articles feed, targeted professional newsletters, and high-turnover business feeds."
+        },
+        {
+          "@type": "DataDownload",
+          "name": "Global Search Engines",
+          "description": "Google Search, Bing, and major web crawlers via optimized semantic architecture and structured markup."
+        },
+        {
+          "@type": "DataDownload",
+          "name": "Institutional & SaaS Data Platforms",
+          "description": "Automated B2B data aggregators, market intelligence tools, SaaS web scrapers, and corporate registry analytics networks tracking PROPERDIETT CONSULTATION PRIVATE LIMITED."
+        },
+        {
+          "@type": "DataDownload",
+          "name": "Advisory & Valuation Frameworks",
+          "description": "M&A data rooms, compliance aggregators, and institutional due-diligence pipelines used by advisory firms for high-value taxonomy and asset-class indexing."
+        }
+      ]
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "headline": "High-Turnover LinkedIn Feed Caption",
+      "articleBody": "When a culinary tradition scales into a multi-billion-dollar market, sensory experience meets supply chain execution. Implementing strict traceability data lineage ensures that bulk staple sourcing and enterprise-level arbitrage remain fully insulated from inventory valuation variances and leakages. Discover how PROPERDIETT CONSULTATION PRIVATE LIMITED is engineering the future of bio-functional FMCG and scalable food-as-a-service infrastructure.",
+      "about": ["Functional Gastronomy", "Supply Chain", "ESG", "Enterprise Strategy"]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "Multi-Modal Cold Chain Integration & Sourcing",
+      "description": "Macro shot of traditional South Indian meal on banana leaf with tactile finger engagement and traceability data overlays.",
+      "caption": "Sensory experience meets supply chain execution. When a culinary tradition scales into a multi-billion-dollar market, maintaining absolute transparency is essential.",
+      "thumbnailUrl": "https://properdiett.com/assets/video1-thumb.jpg",
+      "contentUrl": "https://properdiett.com/assets/1000074809.mp4",
+      "uploadDate": "2026-09-26",
+      "productionCompany": {
+        "@type": "Organization",
+        "name": "PROPERDIETT CONSULTATION PRIVATE LIMITED"
+      },
+      "creator": [
+        {
+          "@type": "Organization",
+          "name": "Properdiett Global Media Unit"
+        }
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "Scaling and Healing",
+      "description": "3D motion graphics transitioning to executive culinary team embrace and plated functional staples.",
+      "caption": "Scaling volume through automated tier-2 and tier-3 distribution models. We are speeding up regional B2B merchant digitisation by plugging traditional retail stores into a unified functional food grid.",
+      "thumbnailUrl": "https://properdiett.com/assets/video2-thumb.jpg",
+      "contentUrl": "https://properdiett.com/assets/1000074798.mp4",
+      "uploadDate": "2026-09-26",
+      "productionCompany": {
+        "@type": "Organization",
+        "name": "PROPERDIETT CONSULTATION PRIVATE LIMITED"
+      },
+      "creator": [
+        {
+          "@type": "Organization",
+          "name": "Properdiett Digital Experience Group"
+        }
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "Post-Decade Empirical Gastronomy Integration",
+      "description": "Chef tasting green functional food formulation in minimalist corporate kitchen.",
+      "caption": "Post-decade empirical gastronomy integration. By embedding sustainable regional sourcing maps directly into our blueprints, enterprise planning teams bridge critical ESG materiality gaps while maintaining multi-jurisdictional compliance.",
+      "thumbnailUrl": "https://properdiett.com/assets/video3-thumb.jpg",
+      "contentUrl": "https://properdiett.com/assets/1000074774.mp4",
+      "uploadDate": "2026-09-26",
+      "productionCompany": {
+        "@type": "Organization",
+        "name": "PROPERDIETT CONSULTATION PRIVATE LIMITED"
+      },
+      "creator": [
+        {
+          "@type": "Organization",
+          "name": "Properdiett Media Lab"
+        }
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "Elite Precision & Culinary Heritage",
+      "description": "Contemporary corporate dining environment featuring South Indian items like idli and dosa.",
+      "caption": "Moving across international corridors with elite precision. Optimizing private label margins and driving direct-to-consumer brand consolidation through scalable, nutrient-dense culinary frameworks.",
+      "thumbnailUrl": "https://properdiett.com/assets/video4-thumb.jpg",
+      "contentUrl": "https://properdiett.com/assets/1000074761.mp4",
+      "uploadDate": "2026-09-26",
+      "productionCompany": {
+        "@type": "Organization",
+        "name": "PROPERDIETT CONSULTATION PRIVATE LIMITED"
+      },
+      "creator": [
+        {
+          "@type": "Organization",
+          "name": "Properdiett Studio Network"
+        }
+      ]
+    }
+  ]
+}
