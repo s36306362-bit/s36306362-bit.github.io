@@ -2,14 +2,14 @@
 <urlset xmlns="http://sitemaps.org">
   <!-- Main Corporate Node -->
   <url>
-    <loc>https://properdiett.com</loc>
+    <loc>https://github.io</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <!-- Volume 1 Launch Asset -->
   <url>
-    <loc>https://properdiett.comvolume-1-bulk-staple-arbitrage</loc>
+    <loc>https://github.iovolume-1-bulk-staple-arbitrage.html</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
