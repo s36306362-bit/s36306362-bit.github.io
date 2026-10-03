@@ -40,4 +40,4 @@ A comprehensive deep-dive briefing on unlocking non-linear growth verticals, adv
 The underlying algorithmic calculation layers, operational software tools, and raw IP code structures remain under administrative security isolation. Access credentials are strictly reserved for verified Corporate Development, Venture Innovation, and Private Equity sourcing groups.
 
 For deeper architectural verification audits, connect through our central platform interface:  
-🔗 **[://properdiett.com](http://://properdiett.com)** | 📧 **mahesh@properdiett.com**
+🔗 **[https://www.properdiett.com/](https://www.properdiett.com/)** | 📧 **mahesh@properdiett.com**
