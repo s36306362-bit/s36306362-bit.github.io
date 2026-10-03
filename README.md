@@ -13,7 +13,7 @@ An introductory brief mapping out our 9-year empirical lifecycle, precision gast
 
 ### ⚡ 2. Throughput Yield Optimization & Capital Leakage Controls
 A comprehensive deep-dive briefing on unlocking non-linear growth verticals, advanced by-product valorization, and retail automation architectures engineered to stop conglomerate capital erosion.
-[![Watch the Industrial Framework Video](https://youtube.com)](https://youtube.com)
+[![Watch the Industrial Framework Video](https://youtu.be/1WF3xWsW-hw?si=6UpKE5KgMWK6amk2)](https://youtu.be/1WF3xWsW-hw?si=IqMBTCj4r4LLvDoo)
 
 ---
 
