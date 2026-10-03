@@ -9,7 +9,7 @@ This repository serves as the official open-access due diligence asset class hub
 
 ### 📊 1. Executive Teaser & Investor Value Proposition
 An introductory brief mapping out our 9-year empirical lifecycle, precision gastronomy models, and corporate synergy layouts for multi-billion dollar conglomerates.
-[![Watch the Overview Video](https://youtube.com)](https://youtube.com)
+[![Watch the Overview Video](https://youtu.be/-61JEGsXY_w?si=KsuzsymJma01RPq-)](https://youtu.be/-61JEGsXY_w?si=W2EE8Du-5QQzInHw)
 
 ### ⚡ 2. Throughput Yield Optimization & Capital Leakage Controls
 A comprehensive deep-dive briefing on unlocking non-linear growth verticals, advanced by-product valorization, and retail automation architectures engineered to stop conglomerate capital erosion.
