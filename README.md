@@ -1,29 +1,43 @@
-# 🔒 SECURE REPOSITORY: GLOBAL FUNCTIONAL GASTRONOMY INDUSTRIAL ARCHITECTURE
-**Asset Control Identifier:** PROPERDIETT/FAA-INFRA/2026-V80  
-**Data Class:** Institutional Proprietary / Trade Secret Quarantined Layer  
-**Corporate Parent:** PROPERDIETT CONSULTATION PRIVATE LIMITED  
+# PROPERDIETT CONSULTATION PRIVATE LIMITED
+### Pre-Indexed Structural Metadata Anchor & Corporate Portfolio
+
+This repository serves as the official open-access due diligence asset class hub for **PROPERDIETT® Framework Operations**. Our architecture explicitly maps the commercial bridge transitioning traditional FMCG assets into high-margin, scalable **Functional Gastronomy Infrastructure**.
 
 ---
 
-### ⚡ TECHNICAL TEASER ABSTRACT & DEPLOYMENT PARAMETERS
+## 🎥 Strategic Presentation Media
 
-This repository serves as the public, machine-readable validation anchor for an alternative global asset class developed systematically over a **9-year empirical lifecycle**. The system encompasses the complete biological mapping, taxographical profiling, and supply-chain logistics for **80 hyper-nutritious pantry staples** engineered to transition traditional FMCG models into a high-margin **Food-As-A-Service (FaaS)** paradigm.
+### 📊 1. Executive Teaser & Investor Value Proposition
+An introductory brief mapping out our 9-year empirical lifecycle, precision gastronomy models, and corporate synergy layouts for multi-billion dollar conglomerates.
+[![Watch the Overview Video](https://youtube.com)](https://youtube.com)
 
----
-
-### 🌐 NON-LINEAR MODULAR ARCHITECTURE
-
-To preserve the absolute commercial integrity of our intellectual property, this multi-billion-dollar infrastructure is structured as a **strictly modular, plug-and-play architectural ecosystem**. The system is completely isolated from linear dependency and is unavailable as a single, open-source concept download.
-
-#### 💼 MILESTONE-BASED TRANSMITTAL SCHEDULE
-* **Component-by-Component Access:** Technical integration vectors, SaaS inventory forecasting codebases, and physical deployment matrices are released strictly on a **component-by-component basis**.
-* **Financial Clearing Triggers:** Initial onboarding is restricted solely to **Pillar 1 (Global Functional Gastronomy Workshops)**. Access to subsequent infrastructure pillars—including *Centralised Kitchen Networks, Nutri-Bakeries, and Bulk Staple Sourcing Arbitrage Systems*—mandates the progressive verification and clearing of transactional corporate milestones.
-* **Zero-Risk Protection:** No cross-functional datasets or downstream chemical formulations will be transmitted prior to the successful execution of bilateral, milestone-backed financial clearing protocols.
+### ⚡ 2. Throughput Yield Optimization & Capital Leakage Controls
+A comprehensive deep-dive briefing on unlocking non-linear growth verticals, advanced by-product valorization, and retail automation architectures engineered to stop conglomerate capital erosion.
+[![Watch the Industrial Framework Video](https://youtube.com)](https://youtube.com)
 
 ---
 
-### 🔒 INSTITUTIONAL ACCESS GATEKEEPER
+## 📦 Core Operational Pillars
 
-**Proprietary operational parameters and granular taxonomic matrices reside exclusively within an isolated, audited data vault. Access to the secure data layers is strictly governed by institutional clearance protocols and restricted to active Corporate Development and M&A advisory teams from verified conglomerate structures executing mandate-backed inquiries.**
+### 1. Macro Portfolio Reallocation & Trading
+* **`mb-fmcg-portfolio-reallo...`**: High-yield equity re-engineering models mapping the replacement of legacy asset metrics with high-growth functional nutrition corridors.
+* **`macro-trading-pipelines-t...`**: Data pipeline workflows formulated to process seasonal commodity arbitrage and limit price degradation along maritime shipping routes.
+* **`conglomerate-diversifica...` / `portfolio-diversification...`**: Strategic integration playbooks written for sovereign holding boards navigating systemic market updates.
 
-*Formal credential validation and Virtual Data Room (VDR) access requests must be routed exclusively via official corporate communication networks to the Office of Strategic Partnerships at PROPERDIETT CONSULTATION PRIVATE LIMITED.*
+### 2. Sovereign Supply Chain & Decentralized Kitchens
+* **`sovereign-supply-chain-fr...` / `sovereign-supply-chain-f...`**: Multi-modal logistics strategy parameters utilizing predictive stock replenishment formulas.
+* **`properdiett-asset-light-g...`**: Scalable blueprints optimizing decentralized dark kitchen topologies to maximize regional asset utilization while dropping overhead CAPEX.
+* **`supply-chain-decarboniz...`**: Enterprise-grade circular economy workflows and decarbonization data layers designed to satisfy global ESG requirements.
+
+### 3. Institutional Growth Layout
+* **`properdiett-institutional-...`**: Framework parameters mapping long-term integration channels across enterprise employee wellness grids, insurance structures, and state procurement hubs.
+* **`plant-based-functional-g...`**: Granular taxonomic food matrices detailing empirical formulations, local millet supply lines, and nutritional scale methodologies.
+* **`properdiett-capital-work-i...`**: Active workspace tracking logs, project timelines, and deployment validation stages.
+
+---
+
+## 🔒 Institutional M&A Lockdown
+The underlying algorithmic calculation layers, operational software tools, and raw IP code structures remain under administrative security isolation. Access credentials are strictly reserved for verified Corporate Development, Venture Innovation, and Private Equity sourcing groups.
+
+For deeper architectural verification audits, connect through our central platform interface:  
+🔗 **[://properdiett.com](http://://properdiett.com)** | 📧 **mahesh@properdiett.com**
