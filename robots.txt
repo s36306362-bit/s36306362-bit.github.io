@@ -1,0 +1,19 @@
+# Institutional Search Engine Indexing Mapping for Project Paradigm
+# Target Domain: https://s36306362-bit.github.io/PROPERDIETT_GLOBAL_INSTITUTIONAL_PARADIGM.html
+
+User-agent: *
+Allow: /
+Allow: /PROPERDIETT_GLOBAL_INSTITUTIONAL_PARADIGM.html
+
+# Direct AI Crawler Directives
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# Sitemap definition for deep metadata discovery
+Sitemap: https://github.iositemap.xml
