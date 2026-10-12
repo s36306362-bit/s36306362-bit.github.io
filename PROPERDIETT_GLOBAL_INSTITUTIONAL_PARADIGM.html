@@ -111,29 +111,31 @@
     }
     </script>
     
-    <!-- Premium Boardroom Styling (Optimized for Mobile/Desktop Responsiveness) -->
+    <!-- Premium Boardroom Responsive Layout Adjustments -->
     <style>
         body {
-            background-color: #1E2622; /* Deep Strategic Charcoal-Green */
-            color: #E0E6E3; /* Crisp Silver Text */
+            background-color: #1E2622;
+            color: #E0E6E3;
             font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             margin: 0;
             padding: 20px;
             display: flex;
             justify-content: center;
-            align-items: center;
+            align-items: flex-start; /* Corrects layout cutoff on scrolling viewports */
             min-height: 100vh;
             box-sizing: border-box;
         }
         .container {
             width: 100%;
             max-width: 850px;
-            border: 2px solid #D4AF37; /* Polished M&A Gold Trim */
-            padding: 30px;
+            border: 2px solid #D4AF37;
+            padding: 24px;
             background-color: #222A26;
             box-shadow: 0 15px 40px rgba(0,0,0,0.6);
             border-radius: 4px;
             box-sizing: border-box;
+            margin-top: 10px;
+            margin-bottom: 20px;
         }
         .header-section {
             text-align: center;
@@ -146,27 +148,29 @@
             color: #D4AF37;
             letter-spacing: 2px;
             margin: 0 0 10px 0;
-            font-size: 1.8em;
+            font-size: 1.6em;
             text-transform: uppercase;
             line-height: 1.3;
         }
         h2 {
-            font-size: 0.95em;
-            letter-spacing: 3px;
+            font-size: 0.9em;
+            letter-spacing: 2px;
             color: #A3B5AD;
             text-transform: uppercase;
             margin: 0;
             font-weight: 300;
+            line-height: 1.4;
         }
         .meta-tag {
-            font-size: 0.75em;
+            font-size: 0.7em;
             color: #8C9E95;
             font-family: monospace;
             margin-top: 15px;
             word-break: break-all;
+            letter-spacing: 1px;
         }
         p.abstract {
-            font-size: 1em;
+            font-size: 0.95em;
             line-height: 1.6;
             color: #C2CDC8;
             text-align: justify;
@@ -174,6 +178,8 @@
         }
         .footer-matrix {
             text-align: center;
+            margin-top: 20px;
+            padding-top: 10px;
         }
         .matrix-badge {
             display: inline-block;
@@ -187,14 +193,14 @@
             background-color: rgba(212, 175, 55, 0.05);
         }
         
-        /* Desktop View Refinements */
+        /* Media Query Enhancements for Standard Desktop Viewports */
         @media(min-width: 768px) {
-            body { padding: 60px 20px; }
-            .container { padding: 50px; }
+            body { padding: 60px 20px; align-items: center; }
+            .container { padding: 50px; margin-bottom: 0; }
             h1 { font-size: 2.4em; }
             h2 { font-size: 1.1em; letter-spacing: 4px; }
             .meta-tag { font-size: 0.85em; }
-            p.abstract { font-size: 1.15em; line-height: 1.7; text-indent: 30px; }
+            p.abstract { font-size: 1.15em; line-height: 1.7; }
             .matrix-badge { font-size: 0.95em; letter-spacing: 3px; padding: 12px 28px; }
         }
     </style>
