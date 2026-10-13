@@ -41,9 +41,9 @@
         h1 {
             font-family: 'Cinzel', 'Trajan Pro', Georgia, serif;
             color: #D4AF37;
-            letter-spacing: 1px; /* Optimized for mobile fit */
+            letter-spacing: 2px;
             margin: 0 0 10px 0;
-            font-size: 1.2em; /* Adjusted for smaller screens */
+            font-size: 1.6em;
             text-transform: uppercase;
             line-height: 1.3;
         }
@@ -75,6 +75,7 @@
             text-align: left;
             white-space: pre-wrap;
             margin-bottom: 35px;
+            word-break: break-all; /* Fixes text cutting off on mobile screens */
         }
         .footer-matrix {
             text-align: center;
@@ -96,7 +97,7 @@
         @media(min-width: 768px) {
             body { padding: 60px 20px; align-items: center; }
             .container { padding: 50px; margin-bottom: 0; }
-            h1 { font-size: 2.4em; letter-spacing: 2px; } /* Restored desktop size and spacing */
+            h1 { font-size: 2.4em; }
             h2 { font-size: 1.1em; letter-spacing: 4px; }
             .meta-tag { font-size: 0.85em; }
             .code-block { font-size: 1em; padding: 30px; }
