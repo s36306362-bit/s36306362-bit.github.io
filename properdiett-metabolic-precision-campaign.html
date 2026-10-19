@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Properdiett Consultation | Precision Functional Gastronomy</title>
+    
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        brand: {
+                            dark: '#0B0F19',
+                            card: '#111827',
+                            accent: '#3B82F6',
+                            gold: '#D97706'
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+
+    <!-- Corrected JSON-LD Schema Architecture -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://properdiett.com/#organization",
+          "name": "Properdiett Consultation Private Limited",
+          "url": "https://properdiett.com",
+          "logo": "https://properdiett.com/assets/logo.png",
+          "founder": {
+            "@type": "Person",
+            "name": "Mahesh Sivashanmugam"
+          },
+          "description": "Global strategist and R&D consultancy specializing in functional gastronomy, heritage grain re-engineering, and metabolic health solutions under a Vision 2030 framework.",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Tirupur",
+            "addressRegion": "Tamil Nadu",
+            "addressCountry": "IN"
+          },
+          "sameAs": [
+            "https://github.com/properdiett"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://properdiett.com/#website",
+          "url": "https://properdiett.com",
+          "name": "Properdiett Consultation",
+          "publisher": {
+            "@id": "https://properdiett.com/#organization"
+          },
+          "inLanguage": "en"
+        },
+        {
+          "@type": "SoftwareSourceCode",
+          "@id": "https://github.com/properdiett/properdiett-campaign#repository",
+          "name": "properdiett-campaign",
+          "description": "Repository containing responsive landing page HTML code with Tailwind CSS, structured JSON-LD schemas, and media assets for the Metabolic Precision Campaign.",
+          "codeRepository": "https://github.com/properdiett/properdiett-campaign",
+          "programmingLanguage": ["HTML", "CSS", "JavaScript", "JSON-LD"],
+          "author": {
+            "@id": "https://properdiett.com/#organization"
+          },
+          "publisher": {
+            "@id": "https://properdiett.com/#organization"
+          }
+        },
+        {
+          "@type": "VideoGallery",
+          "@id": "https://properdiett.com/#videogallery",
+          "name": "Properdiett Metabolic Precision Campaign Videos",
+          "description": "A 3-part executive video campaign showcasing functional gastronomy, glycemic stability, and heritage South Indian culinary re-engineering.",
+          "producer": {
+            "@id": "https://properdiett.com/#organization"
+          },
+          "video": [
+            {
+              "@type": "VideoObject",
+              "name": "Part 1: The Metabolic Science",
+              "duration": "PT10S",
+              "thumbnailUrl": "https://properdiett.com/assets/video1-thumb.jpg",
+              "uploadDate": "2026-10-19",
+              "description": "Demonstrating how Properdiett functional gastronomy neutralizes glycemic and cholesterol spikes at the cellular level."
+            },
+            {
+              "@type": "VideoObject",
+              "name": "Part 2: Heritage Preparation",
+              "duration": "PT10S",
+              "thumbnailUrl": "https://properdiett.com/assets/video2-thumb.jpg",
+              "uploadDate": "2026-10-19",
+              "description": "Sourcing and crafting low-glycemic South Indian culinary items including idli, dosa, and chutneys."
+            },
+            {
+              "@type": "VideoObject",
+              "name": "Part 3: Metabolic Harmony & Vision 2030",
+              "duration": "PT10S",
+              "thumbnailUrl": "https://properdiett.com/assets/video3-thumb.jpg",
+              "uploadDate": "2026-10-19",
+              "description": "The culmination of heritage flavor, zero glycemic disruption, and executive wellness."
+            }
+          ]
+        }
+      ]
+    }
+    </script>
+</head>
+<body class="bg-brand-dark text-gray-100 font-sans antialiased selection:bg-brand-accent selection:text-white">
+
+    <!-- Header / Navigation -->
+    <header class="sticky top-0 z-50 backdrop-blur-md bg-brand-dark/80 border-b border-gray-800">
+        <div class="max-w-7xl mx-auto px-6 h-20 flex items-center justify-between">
+            <div class="flex items-center space-x-3">
+                <span class="text-xl font-bold tracking-wider text-white">PROPERDIETT</span>
+                <span class="text-xs uppercase px-2 py-0.5 rounded bg-brand-accent/20 text-brand-accent border border-brand-accent/30 font-semibold">Vision 2030</span>
+            </div>
+            <nav class="hidden md:flex items-center space-x-8 text-sm font-medium text-gray-300">
+                <a href="#campaign" class="hover:text-white transition-colors">Campaign</a>
+                <a href="#science" class="hover:text-white transition-colors">Metabolic Science</a>
+                <a href="#culinary" class="hover:text-white transition-colors">Functional Gastronomy</a>
+            </nav>
+            <div>
+                <a href="#contact" class="px-5 py-2.5 rounded-lg text-sm font-semibold bg-brand-accent hover:bg-blue-600 transition-all text-white shadow-lg shadow-blue-500/20">Executive Brief</a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="relative overflow-hidden pt-20 pb-32 border-b border-gray-800">
+        <div class="max-w-7xl mx-auto px-6 text-center relative z-10">
+            <h1 class="text-4xl md:text-6xl font-extrabold tracking-tight text-white mb-6">
+                Redefining Global <span class="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-indigo-500">Metabolic Health</span>
+            </h1>
+            <p class="max-w-2xl mx-auto text-lg text-gray-400 mb-10">
+                Bridging heritage South Indian culinary formulations with precision functional gastronomy to neutralize glycemic surges and ensure sustained cellular vitality.
+            </p>
+            <div class="flex flex-col sm:flex-row justify-center gap-4">
+                <a href="#campaign" class="px-8 py-3.5 rounded-lg font-semibold bg-brand-accent hover:bg-blue-600 transition-all text-white shadow-xl shadow-blue-500/25">View Campaign Reel</a>
+                <a href="#science" class="px-8 py-3.5 rounded-lg font-semibold bg-gray-800 hover:bg-gray-700 transition-all text-gray-200 border border-gray-700">Explore R&amp;D Moats</a>
+            </div>
+        </div>
+        <!-- Decorative Glow -->
+        <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[300px] bg-blue-600/10 blur-[120px] rounded-full pointer-events-none"></div>
+    </section>
+
+    <!-- Campaign Video Showcase Section -->
+    <section id="campaign" class="py-24 max-w-7xl mx-auto px-6">
+        <div class="text-center mb-16">
+            <h2 class="text-3xl font-bold text-white mb-4">The Metabolic Precision Campaign</h2>
+            <p class="text-gray-400 max-w-xl mx-auto">A three-part executive storyboard showcasing molecular intervention, authentic preparation, and ultimate physiological harmony.</p>
+        </div>
+
+        <div class="grid md:grid-cols-3 gap-8">
+            <!-- Video Card 1 -->
+            <div class="bg-brand-card border border-gray-800 rounded-xl p-6 flex flex-col justify-between hover:border-gray-700 transition-all">
+                <div>
+                    <div class="h-40 bg-gray-900 rounded-lg mb-4 flex items-center justify-center border border-gray-800">
+                        <span class="text-xs uppercase tracking-widest text-brand-accent font-bold">Part 01 • The Science</span>
+                    </div>
+                    <h3 class="text-lg font-bold text-white mb-2">Glycemic Neutralization</h3>
+                    <p class="text-sm text-gray-400 mb-6">Visualizing how proper nutrient architecture prevents sharp energy spikes across the intestinal wall.</p>
+                </div>
+                <div class="text-xs font-mono text-gray-500 flex justify-between items-center pt-4 border-t border-gray-800">
+                    <span>Duration: 10s</span>
+                    <span class="text-brand-accent">Active R&amp;D</span>
+                </div>
+            </div>
+
+            <!-- Video Card 2 -->
+            <div class="bg-brand-card border border-gray-800 rounded-xl p-6 flex flex-col justify-between hover:border-gray-700 transition-all">
+                <div>
+                    <div class="h-40 bg-gray-900 rounded-lg mb-4 flex items-center justify-center border border-gray-800">
+                        <span class="text-xs uppercase tracking-widest text-brand-accent font-bold">Part 02 • Heritage</span>
+                    </div>
+                    <h3 class="text-lg font-bold text-white mb-2">South Indian Gastronomy</h3>
+                    <p class="text-sm text-gray-400 mb-6">Transforming heirloom grains, idli, dosa, and fresh chutneys into functional wellness models.</p>
+                </div>
+                <div class="text-xs font-mono text-gray-500 flex justify-between items-center pt-4 border-t border-gray-800">
+                    <span>Duration: 10s</span>
+                    <span class="text-brand-accent">Culinary Craft</span>
+                </div>
+            </div>
+
+            <!-- Video Card 3 -->
+            <div class="bg-brand-card border border-gray-800 rounded-xl p-6 flex flex-col justify-between hover:border-gray-700 transition-all">
+                <div>
+                    <div class="h-40 bg-gray-900 rounded-lg mb-4 flex items-center justify-center border border-gray-800">
+                        <span class="text-xs uppercase tracking-widest text-brand-accent font-bold">Part 03 • Harmony</span>
+                    </div>
+                    <h3 class="text-lg font-bold text-white mb-2">Cellular Vitality</h3>
+                    <p class="text-sm text-gray-400 mb-6">Achieving sustained metabolic equilibrium under the Vision 2030 corporate framework.</p>
+                </div>
+                <div class="text-xs font-mono text-gray-500 flex justify-between items-center pt-4 border-t border-gray-800">
+                    <span>Duration: 10s</span>
+                    <span class="text-brand-accent">Vision 2030</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="border-t border-gray-800 bg-brand-card py-12 text-center text-sm text-gray-500">
+        <p>&copy; 2026 Properdiett Consultation Private Limited. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
