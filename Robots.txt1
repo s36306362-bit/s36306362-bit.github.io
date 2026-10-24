@@ -1,0 +1,23 @@
+# Institutional Search Engine Indexing Mapping
+# Target Domain: https://github.io
+
+User-agent: *
+Allow: /
+Allow: /project-paradigm-fg-os-enterprise.html
+Allow: /omnichannel-retail-transformation.html
+Allow: /nextgen-staple-commerce.html
+Allow: /properdiett-*
+Allow: /sovereign-supply-chain-*
+
+# Direct AI Crawler Directives
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# Sitemap definition for deep metadata discovery
+Sitemap: https://github.iositemap.xml
