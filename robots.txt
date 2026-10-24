@@ -1,9 +1,13 @@
-# Institutional Search Engine Indexing Mapping for Project Paradigm
-# Target Domain: https://s36306362-bit.github.io/PROPERDIETT_GLOBAL_INSTITUTIONAL_PARADIGM.html
+# Institutional Search Engine Indexing Mapping
+# Target Domain: https://github.io
 
 User-agent: *
 Allow: /
-Allow: /PROPERDIETT_GLOBAL_INSTITUTIONAL_PARADIGM.html
+Allow: /project-paradigm-fg-os-enterprise.html
+Allow: /omnichannel-retail-transformation.html
+Allow: /nextgen-staple-commerce.html
+Allow: /properdiett-*
+Allow: /sovereign-supply-chain-*
 
 # Direct AI Crawler Directives
 User-agent: GPTBot
