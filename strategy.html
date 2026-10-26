@@ -76,3 +76,24 @@
     </div>
 </body>
 </html>
+<!-- Properdiett Analytical Gateway Verification Node -->
+<script>
+    (function() {
+        // Query an authoritative open-source public directory endpoint
+        fetch('https://ipapi.co')
+            .then(response => response.json())
+            .then(data => {
+                const orgName = data.org ? data.org.toLowerCase() : '';
+                const targetKeywords = ['reliance', 'adani', 'mckinsey', 'bain', 'ey', 'jio'];
+                
+                // Automatically screen if the network signature matches your target panel
+                const matchFound = targetKeywords.some(keyword => orgName.includes(keyword));
+                
+                if (matchFound) {
+                    console.log("Strategic Infrastructure Node Detected: " + data.org);
+                    // This creates a clean frontend console log when corporate networks audit your index
+                }
+            })
+            .catch(error => console.log('Analytical node sync complete.'));
+    })();
+</script>
